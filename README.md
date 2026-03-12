@@ -136,7 +136,7 @@ object Yasir {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=iamyasirqureshi&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=21262d"/>
+<img src="https://streak-stats.demolab.com?user=iamyasirqureshi&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=21262d"/>
 
 </div>
 
