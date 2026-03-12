@@ -19,6 +19,29 @@
 
 <br/>
 
+## 🌐 Portfolio Website
+
+<div align="center">
+
+### [![yasirqureshi.dev](https://img.shields.io/badge/🔗_Visit_Live_Portfolio-yasirqureshi.dev-58a6ff?style=for-the-badge&labelColor=0d1117)](https://www.yasirqureshi.dev)
+
+> **Android Developer · Unity XR · AI/ML Explorer · Portrait Artist**
+> Personal portfolio built from scratch — HTML, CSS & JavaScript. No frameworks. No templates.
+>
+> 📱 Android Projects &nbsp;|&nbsp; 🎮 Game Dev &nbsp;|&nbsp; 🤖 AI/ML &nbsp;|&nbsp; 🎨 Portrait Art &nbsp;|&nbsp; 📊 Data Viz
+
+[![](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamyasirqureshi/iamyasirqureshi.github.io)
+[![](https://img.shields.io/badge/Status-Live_✓-3DDC84?style=flat-square)](https://www.yasirqureshi.dev)
+[![](https://img.shields.io/badge/Made_with-HTML_·_CSS_·_JS-E34F26?style=flat-square)](https://www.yasirqureshi.dev)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## 🧑‍💻 About Me
 
 ```kotlin
@@ -121,25 +144,19 @@ object Yasir {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamyasirqureshi&repo=icalculator&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamyasirqureshi&repo=iamyasirqureshi.github.io&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-
-</div>
 
 <br/>
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🧮 **iCalculator** | Kotlin · Compose · MVVM | Liquid Glass Calculator App |
-| 🌐 **Portfolio** | HTML · CSS · JS | Personal portfolio — yasirqureshi.dev |
-| 🐉 **AR Dragon** | Unity · C# | Interactive 3D Unity Game |
-| 🐍 **Py Learn** | Kotlin · Java | Android app to learn Python |
-| 🎬 **YT Transcriber** | Python | YouTube speech to text converter |
-| 📊 **Finance Tracker** | Power BI · DAX | Personal budget dashboard |
+| Project | Tech | Description | Link |
+|---------|------|-------------|------|
+| 🧮 **iCalculator** | Kotlin · Compose · MVVM | Liquid Glass Calculator App | [→ Repo](https://github.com/iamyasirqureshi/icalculator) |
+| 🌐 **Portfolio** | HTML · CSS · JS | Personal portfolio website | [→ Live](https://www.yasirqureshi.dev) |
+| 🐉 **AR Dragon** | Unity · C# | Interactive 3D Unity Game | [→ GitHub](https://github.com/iamyasirqureshi) |
+| 🐍 **Py Learn** | Kotlin · Java | Android app to learn Python | [→ GitHub](https://github.com/iamyasirqureshi) |
+| 🎬 **YT Transcriber** | Python | YouTube speech to text | [→ GitHub](https://github.com/iamyasirqureshi/Youtube_Transcriber_Web-APP) |
+| 📊 **Finance Tracker** | Power BI · DAX | Personal budget dashboard | [→ GitHub](https://github.com/iamyasirqureshi) |
 
 <br/>
 
@@ -186,8 +203,6 @@ object Yasir {
 > *"I don't just write code — I compose experiences."*
 >
 > *"I don't just sketch portraits — I capture souls."*
->
-> *"I believe AI is the next brush — and I intend to paint with it."*
 >
 > **— Yasir Qureshi**
 
