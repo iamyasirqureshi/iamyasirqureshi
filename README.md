@@ -48,8 +48,8 @@
 object Yasir {
 
     val name         = "Yasir Qureshi"
-    val location     = "Mumbai / Pune, India 🇮🇳"
-    val degree       = "BE Computer Engineering @ GH Raisoni, Pune  |  CGPA 8.9"
+    val location     = "Pune / Mumbai, India 🇮🇳"
+    val degree       = "B.Tech Computer Engineering @ GH Raisoni, Pune  |  CGPA 8.9"
     val diploma      = "Govt Polytechnic Mumbai  |  87%"
     val internship   = "Android Developer Intern @ Learn Smasher Edutech  |  6 months"
     val club         = "Junior Unity Developer @ AR/VR Club, GH Raisoni  |  2025–Present"
@@ -70,7 +70,6 @@ object Yasir {
         Great software and great art share the same eye for detail.
         I don't just write code — I compose experiences.
         I don't just sketch portraits — I capture souls.
-        I believe AI is the next brush — and I intend to paint with it.
     """.trimIndent()
 }
 ```
